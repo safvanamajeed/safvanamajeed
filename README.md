@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Safvana Majeed</h1>
 <h3 align="center">A passionate developer student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/female-programmer-developed-website-6369146">
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-programmer-developed-website-6369146-5304702.mp4">
 
 - 🌱 I’m currently learning **Python Django**
 
